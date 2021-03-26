@@ -1,0 +1,58 @@
+.fix {
+  overflow: hidden;
+}
+.robot-page {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 855px;
+  background-position: center center;
+}
+.logo {
+  width: 470px;
+  height: 155px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  margin-left: 60px;
+}
+.logo-p {
+  position: absolute;
+  font-family: Megatron;
+  color: white;
+  font-size: 16px;
+  margin-top: 77px;
+  margin-left: 143px;
+}
+.first-page-para {
+  max-width: 475px;
+  background-size: cover;
+  height: 495px;
+  background-repeat: no-repeat;
+  position: relative;
+  margin-left: 190px;
+  margin-top: 75px;
+}
+.f-header {
+  font-size: 45px;
+  font-family: OpenSans-Bold;
+  color: white;
+  margin-left: 95px;
+  margin-top: 155px;
+}
+.f-para {
+  font-family: Poppins-Bold;
+  font-size: 16px;
+  color: white;
+  margin-left: 103px;
+}
+.btn1 {
+  font-family: Montserrat-SemiBold;
+  font-size: 11px;
+  border: 0px;
+  margin-left: 105px;
+  background-color: #6c9e9f;
+}
+.first-page_para_div button a {
+  text-decoration: none;
+  color: white;
+}

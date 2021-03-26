@@ -1,0 +1,92 @@
+.second {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 762px;
+}
+.first-pic {
+  max-width: 330px !important;
+  height: 277px !important;
+  margin-top: 265px;
+  position: relative;
+}
+.second-pic {
+  max-width: 250px !important;
+  height: 250px !important;
+  margin-left: 35px;
+  margin-top: -65px;
+}
+.third-pic {
+  max-width: 186px !important;
+  height: 186px !important;
+  z-index: 5 !important;
+  margin-left: 220px;
+  margin-top: -65px;
+  position: relative;
+}
+.parent {
+  margin-top: 230px;
+}
+.what-we {
+  font-family: Poppins-Bold;
+  color: #67a5ae;
+  font-size: 30px;
+}
+.best-place {
+  font-family: Poppins-Bold;
+  color: black;
+  font-size: 43px;
+}
+.the-value {
+  font-family: Poppins-Bold;
+  color: #8e8e8e;
+  font-size: 15px;
+  text-align: justify;
+}
+.icon1 {
+  margin-left: 240px !important;
+}
+.icon3 {
+  margin-left: 190px !important;
+}
+.icon1-h {
+  text-align: center;
+  font-family: OpenSans-Bold;
+  color: #222222;
+  font-size: 22px;
+  margin-top: 20px;
+}
+.icon1-p {
+  text-align: center;
+  font-family: OpenSans-Semibold;
+  color: #575757;
+  font-size: 16px;
+  margin-top: 20px;
+}
+.btn-icon {
+  margin-bottom: 105px;
+  margin-top: 50px;
+}
+.second-footer {
+  background-color: #29636e;
+  height: 220px;
+}
+.eleven,
+.competition {
+  font-family: Poppins-Bold;
+  color: white;
+}
+.eleven {
+  font-size: 60px !important;
+  text-align: center;
+  margin-top: 75px;
+}
+.competition {
+  font-size: 16px;
+  text-align: justify;
+  margin-top: 88px;
+  margin-left: 10px;
+}
+.one {
+  margin-left: -40px;
+}
