@@ -1,13 +1,13 @@
-.fourth-page {
+.fourth_page {
   background-repeat: no-repeat;
   background-size: cover;
   height: 855px;
   background-position: center center;
 }
-.our-services-div {
+.our_services_div {
   margin-top: 85px;
 }
-.our-services {
+.our_services {
   font-family: Poppins-Bold;
   font-size: 30px;
   color: black;
@@ -18,19 +18,19 @@
   text-align: center;
   display: inline-block;
 }
-.our-services-footer-four-img {
+.our_services_footer_four_img {
   margin-top: -60px;
 }
 .cc {
   margin-top: 200px;
 }
-.img-cc {
+.img_cc {
   max-width: 556px;
   height: 460px;
   background-repeat: no-repeat;
   position: relative;
 }
-.cc-wraper {
+.cc_wraper {
   position: absolute;
   margin-top: -140px;
   margin-left: 45px;
@@ -45,10 +45,10 @@
   color: white;
   font-size: 48px;
 }
-.pm-div {
+.pm_div {
   margin-top: 200px;
 }
-.img-pm {
+.img_pm {
   max-width: 267px;
   height: 220px;
   background-repeat: no-repeat;
@@ -59,7 +59,7 @@
   margin-top: -75px;
   margin-left: 35px;
 }
-.pm-h {
+.pm_h {
   font-family: Poppins-Bold;
   color: white;
   font-size: 23px;
@@ -73,10 +73,10 @@
 .dd {
   margin-top: 20px;
 }
-.rd-wrapper {
+.rd_wrapper {
   margin-top: 200px;
 }
-.img-rd {
+.img_rd {
   max-width: 273px;
   height: 460px;
   background-repeat: no-repeat;
@@ -87,12 +87,12 @@
   margin-top: -100px;
   margin-left: 30px;
 }
-.rd-h5 {
+.rd_h5 {
   font-family: Poppins-SemiBold;
   color: white;
   font-size: 18px;
 }
-.rd-h4 {
+.rd_h4 {
   font-family: Poppins-Bold;
   color: white;
   font-size: 30px;

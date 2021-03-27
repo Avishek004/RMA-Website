@@ -15,10 +15,10 @@ const FifthPage = () => {
 
     return (
         <div>
-            <div className="fifth-page" style={{ backgroundImage: `url("https://i.imgur.com/1SdHr5T.png")` }}>
+            <div className="fifth_page" style={{ backgroundImage: `url("https://i.imgur.com/1SdHr5T.png")` }}>
                 <div className="fix container">
                     <div className="row">
-                        <div className="col-md-3 left-content">
+                        <div className="col-md-3 left_content">
                             <LatestNews />
                         </div>
                         <div className="col-md-9">
@@ -27,8 +27,8 @@ const FifthPage = () => {
                             }
                         </div>
                     </div>
-                    <div className="row button-div">
-                        <button className="button-read-blog btn btn-primary">
+                    <div className="row button_div">
+                        <button className="button_read_blog btn btn-primary">
                             READ our BLOG
                     </button>
                     </div>

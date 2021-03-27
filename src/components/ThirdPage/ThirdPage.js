@@ -3,12 +3,12 @@ import './ThirdPage.css';
 
 const ThirdPage = () => {
     return (
-        <div className="third-page" style={{ backgroundImage: `url("https://i.imgur.com/ZD3pzkw.png")` }}>
+        <div className="third_page" style={{ backgroundImage: `url("https://i.imgur.com/ZD3pzkw.png")` }}>
             <div className="fix container">
                 <h2 className="wwa">WHO WE ARE</h2>
                 <h3 className="aboutus">ABOUT US</h3>
-                <div className="we-are-para">
-                    <p className="we-are">
+                <div className="we_are_para">
+                    <p className="we_are">
                         We are a group of visionaries, united by dreams… dreams of being the revolution
                         that
                         would change the world…. dreams that would one day transform this tiny little country of ours

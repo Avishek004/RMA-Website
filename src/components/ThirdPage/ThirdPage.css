@@ -1,4 +1,4 @@
-.third-page {
+.third_page {
   background-repeat: no-repeat;
   width: 100%px;
   background-size: cover;
@@ -18,13 +18,13 @@
   color: #222222;
   text-align: center;
 }
-.we-are {
+.we_are {
   font-family: OpenSans-Bold;
   font-size: 20px;
   color: #222222;
   text-align: justify;
   margin-bottom: 50px;
 }
-.we-are-para {
+.we-are_para {
   margin-top: 100px;
 }

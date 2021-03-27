@@ -4,19 +4,19 @@
   background-position: center center;
   height: 762px;
 }
-.first-pic {
+.first_pic {
   max-width: 330px !important;
   height: 277px !important;
   margin-top: 265px;
   position: relative;
 }
-.second-pic {
+.second_pic {
   max-width: 250px !important;
   height: 250px !important;
   margin-left: 35px;
   margin-top: -65px;
 }
-.third-pic {
+.third_pic {
   max-width: 186px !important;
   height: 186px !important;
   z-index: 5 !important;
@@ -27,17 +27,17 @@
 .parent {
   margin-top: 230px;
 }
-.what-we {
+.what_we {
   font-family: Poppins-Bold;
   color: #67a5ae;
   font-size: 30px;
 }
-.best-place {
+.best_place {
   font-family: Poppins-Bold;
   color: black;
   font-size: 43px;
 }
-.the-value {
+.the_value {
   font-family: Poppins-Bold;
   color: #8e8e8e;
   font-size: 15px;
@@ -49,25 +49,25 @@
 .icon3 {
   margin-left: 190px !important;
 }
-.icon1-h {
+.icon1_h {
   text-align: center;
   font-family: OpenSans-Bold;
   color: #222222;
   font-size: 22px;
   margin-top: 20px;
 }
-.icon1-p {
+.icon1_p {
   text-align: center;
   font-family: OpenSans-Semibold;
   color: #575757;
   font-size: 16px;
   margin-top: 20px;
 }
-.btn-icon {
+.btn_icon {
   margin-bottom: 105px;
   margin-top: 50px;
 }
-.second-footer {
+.second_footer {
   background-color: #29636e;
   height: 220px;
 }

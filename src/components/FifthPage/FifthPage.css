@@ -1,17 +1,17 @@
-.fifth-page {
+.fifth_page {
   height: 990px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
-.left-content {
+.left_content {
   margin-top: 360px;
   margin-left: 45px;
 }
-.button-div {
+.button_div {
   margin-top: 60px;
 }
-.button-read-blog {
+.button_read_blog {
   font-size: 27px;
   font-family: Poppins-Bold;
   color: #29636e;

@@ -4,12 +4,12 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <div className="robot-page img-fluid" style={{ backgroundImage: `url("https://i.imgur.com/ba47uiX.jpg")` }}>
+        <div className="robot_page img-fluid" style={{ backgroundImage: `url("https://i.imgur.com/ba47uiX.jpg")` }}>
             <div className="fix">
                 <div className="header">
                     <header className="float-left">
                         <div className="logo img-fluid" style={{ backgroundImage: `url("https://i.imgur.com/pC6mgDV.png")` }}>
-                            <div className="logo-p">Robo Mechatronics Association Bangladesh</div>
+                            <div className="logo_p">Robo Mechatronics Association Bangladesh</div>
                         </div>
                     </header>
                     <Nav className="justify-content-end" activeKey="/home">
@@ -33,10 +33,10 @@ const Header = () => {
                         </Nav.Item>
                     </Nav>
                 </div>
-                <div className="first-page-para" style={{ backgroundImage: `url("https://i.imgur.com/pW6nAEk.png")` }}>
-                    <div className="container fix first-page-para-div">
-                        <p className="f-header">We are RMA</p>
-                        <p className="f-para">Robo Mechatronics Association is <br />
+                <div className="first_page_para" style={{ backgroundImage: `url("https://i.imgur.com/pW6nAEk.png")` }}>
+                    <div className="container fix first_page_para_div">
+                        <p className="f_header">We are RMA</p>
+                        <p className="f_para">Robo Mechatronics Association is <br />
                                         a leading Robotics Association <br />
                                         in Bangladesh. <br />
                                         We work Honestly and sorely<br />

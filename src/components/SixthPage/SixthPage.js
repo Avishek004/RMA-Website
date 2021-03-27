@@ -18,13 +18,13 @@ const SixthPage = () => {
                     <form>
                         <div className="row">
                             <div className="col">
-                                <input type="text" className="form-control" placeholder="Name" />
+                                <input type="text" className="form_control" placeholder="Name" />
                             </div>
                             <div className="form-group col">
-                                <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="Email" />
+                                <input type="email" className="form_control" id="exampleFormControlInput1" placeholder="Email" />
                             </div>
                             <div className="col">
-                                <input type="text" className="form-control" placeholder="Phone" />
+                                <input type="text" className="form_control" placeholder="Phone" />
                             </div>
                         </div>
                         <div className="row">
