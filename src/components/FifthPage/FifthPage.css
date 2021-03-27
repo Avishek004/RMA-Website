@@ -4,3 +4,18 @@
   background-size: cover;
   background-position: center center;
 }
+.left-content {
+  margin-top: 360px;
+  margin-left: 45px;
+}
+.button-div {
+  margin-top: 60px;
+}
+.button-read-blog {
+  font-size: 27px;
+  font-family: Poppins-Bold;
+  color: #29636e;
+  background-color: #b0e3dc;
+  border: none;
+  margin: auto;
+}

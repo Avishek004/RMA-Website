@@ -1,0 +1,23 @@
+.last_page {
+  width: 1920px;
+  height: 491px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.footer_wrapper {
+  margin-top: 265px;
+}
+.copyright_n_menu {
+  margin-top: 25px;
+}
+.copy_right_p {
+  font-family: Poppins-ExtraBold;
+  font-size: 20px;
+  color: white;
+  margin-left: -90px;
+  margin-top: 140px;
+}
+.footer_menu {
+  margin-left: -20px;
+  margin-top: 125px;
+}
