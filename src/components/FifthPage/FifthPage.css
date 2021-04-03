@@ -4,10 +4,6 @@
   background-size: cover;
   background-position: center center;
 }
-.left_content {
-  margin-top: 360px;
-  margin-left: 45px;
-}
 .button_div {
   margin-top: 60px;
 }
@@ -18,4 +14,15 @@
   background-color: #b0e3dc;
   border: none;
   margin: auto;
+}
+.page-container {
+  display: flex;
+}
+.left-content {
+  width: 40%;
+  margin-top: 360px;
+  margin-left: 45px;
+}
+.article-container{
+  margin-top: 200px;
 }

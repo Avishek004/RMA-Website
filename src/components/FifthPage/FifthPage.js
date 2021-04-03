@@ -16,22 +16,20 @@ const FifthPage = () => {
     return (
         <div>
             <div className="fifth_page" style={{ backgroundImage: `url("https://i.imgur.com/1SdHr5T.png")` }}>
-                <div className="fix container">
-                    <div className="row">
-                        <div className="col-md-3 left_content">
-                            <LatestNews />
-                        </div>
-                        <div className="col-md-9">
-                            {
-                                articles.map(article => <Articles article={article}></Articles>)
-                            }
-                        </div>
+                <div className="fix container page-container">
+                    <div className="left-content">
+                        <LatestNews />
                     </div>
-                    <div className="row button_div">
-                        <button className="button_read_blog btn btn-primary">
-                            READ our BLOG
+                    <div className="article-container">
+                        {
+                            articles.map(article => <Articles article={article}></Articles>)
+                        }
+                    </div>
+                </div>
+                <div className="row button_div">
+                    <button className="button_read_blog btn btn-primary">
+                        READ our BLOG
                     </button>
-                    </div>
                 </div>
             </div>
             <div style={{ height: '50px' }}></div>
