@@ -17,22 +17,22 @@ const Header = () => {
                         <Navbar.Collapse id="responsive-navbar-nav">
                             <Nav className="justify-content-end" activeKey="/home">
                                 <Nav.Item>
-                                    <Nav.Link href="/" style={{color: 'white'}}>EVENT</Nav.Link>
+                                    <Nav.Link href="/" style={{ color: 'white' }}>EVENT</Nav.Link>
                                 </Nav.Item>
-                                <NavDropdown title={<span style={{color: 'white'}}>MEMBERS</span>} id="nav-dropdown">
+                                <NavDropdown title={<span style={{ color: 'white' }}>MEMBERS</span>} id="nav-dropdown">
                                     <NavDropdown.Item eventKey="4.1">ADVISORY COMMITTEE</NavDropdown.Item>
                                     <NavDropdown.Item eventKey="4.2">ALUMNI MEMBERS</NavDropdown.Item>
                                     <NavDropdown.Item eventKey="4.3">COMMITTEE MEMBERS</NavDropdown.Item>
                                     <NavDropdown.Item eventKey="4.4">EXECUTIVE MEMBERS</NavDropdown.Item>
                                 </NavDropdown>
                                 <Nav.Item>
-                                    <Nav.Link eventKey="link-1" style={{color: 'white'}}>BLOG</Nav.Link>
+                                    <Nav.Link eventKey="link-1" style={{ color: 'white' }}>BLOG</Nav.Link>
                                 </Nav.Item>
                                 <Nav.Item>
-                                    <Nav.Link eventKey="link-2" style={{color: 'white'}}>GALLERY</Nav.Link>
+                                    <Nav.Link eventKey="link-2" style={{ color: 'white' }}>GALLERY</Nav.Link>
                                 </Nav.Item>
                                 <Nav.Item>
-                                    <Nav.Link eventKey="link-3" style={{color: 'white'}}>TUTORIALS</Nav.Link>
+                                    <Nav.Link eventKey="link-3" style={{ color: 'white' }}>TUTORIALS</Nav.Link>
                                 </Nav.Item>
                             </Nav>
                         </Navbar.Collapse>
@@ -47,7 +47,7 @@ const Header = () => {
                                         We work Honestly and sorely<br />
                                         for our Country & World.
                                         </p>
-                        <button type="button" className="btn btn-primary btn1"><a href="/">Our Story</a></button>
+                        <button type="button" className="btn btn1"><a href="/">Our Story</a></button>
                     </div>
                 </div>
             </div>

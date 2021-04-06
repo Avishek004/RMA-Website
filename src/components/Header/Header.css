@@ -52,6 +52,9 @@
   margin-left: 105px;
   background-color: #6c9e9f;
 }
+.btn1:hover {
+  background-color: darkslategray;
+}
 .first_page_para_div button a {
   text-decoration: none;
   color: white;
