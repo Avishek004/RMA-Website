@@ -41,9 +41,9 @@ const SecondPage = () => {
                             </div>
                         </div>
                         <div className="col-md-1">
-                            <img src={"https://i.imgur.com/apU1FLk.png"} alt="" className="btn_icon img-fluid" />
+                            <img src={"https://i.imgur.com/apU1FLk.png"} alt="" className="btn__icon img-fluid" />
                             <br />
-                            <img src={"https://i.imgur.com/SEPtKFN.png"} alt="" className="btn_icon2 img-fluid ml-1" />
+                            <img src={"https://i.imgur.com/SEPtKFN.png"} alt="" className="btn__icon2 img-fluid ml-1" />
                         </div>
                         <div className="col-md-5">
                             <div>

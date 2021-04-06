@@ -31,7 +31,7 @@ const FourthPage = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-3 rd_wrapper">
+                    <div className="col-md-3 rd-wrapper">
                         <img src={"https://i.imgur.com/9TZCtMC.png"} alt="" className="img_rd img-fluid" />
                         <div className="rd">
                             <h5 className="rd_h5">Research &</h5>
